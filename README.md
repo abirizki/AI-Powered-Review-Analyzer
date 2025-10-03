@@ -1,4 +1,11 @@
-🚀 AI-Powered Review Analyzer Pro
+# 🚀 AI-Powered Review Analyzer Pro
+
+[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://abirizki-ai-sentiment-analyzer.streamlit.app)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/abirizki/ai-sentiment-analyzer?style=social)](https://github.com/abirizki/ai-sentiment-analyzer)
+
+> **💼 Professional Business Intelligence Tool** • **🤖 AI-Driven Insights** • **📊 Real-Time Analytics**
 
 https://ai-powered-review-analyzer-ogymvevskttg42ms9hjocq.streamlit.app/
 
